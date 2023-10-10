@@ -1,2 +1,1 @@
-# .github
-Config files for Tayr Devs team
+Скоро тут будет описание
